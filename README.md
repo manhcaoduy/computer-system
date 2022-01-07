@@ -1,0 +1,1 @@
+This repository is aimed to save my notes for my work when i try to read [the book](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces-ebook/dp/B00TPZ17O4) **Operating System: Three Easy Pieces**
